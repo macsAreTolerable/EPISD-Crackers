@@ -1,0 +1,9 @@
+How to remove iBoss:
+
+1. Log out as your user
+2. On the lock screen, log in as this:
+  Username: jamfadmin
+  Password: UC@ntBr3@kM3
+3. Look in Applications
+4. Look for "Uninstall iBoss"
+5. Run it, and if it prompts you for an admin password, use the credentials from step #2.
